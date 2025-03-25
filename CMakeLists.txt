@@ -17,7 +17,7 @@ FetchContent_Declare(
     GIT_TAG 2.6.x
     CMAKE_ARGS 
         -DSFML_STATIC_LIBRARIES=TRUE
-        -DSFML_BUILD_AUDIO=TRUE  # Set to FALSE if you don't need audio
+        -DSFML_BUILD_AUDIO=TRUE
         -DSFML_USE_STATIC_STD_LIBS=TRUE
         -DSFML_SYSTEM_DEPENDS=STATIC
         -DSFML_SKIP_INSTALL=ON
