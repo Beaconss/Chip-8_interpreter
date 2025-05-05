@@ -1,4 +1,4 @@
-# Chip-8_interpreter
+# chip-8_interpreter
 
 ## About
 This is a barebones Chip-8 interpreter, these are the specifics:
