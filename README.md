@@ -1,7 +1,7 @@
 # chip-8_interpreter
 
 ## About
-This is a barebones Chip-8 interpreter, these are the specifics:
+This is a barebones Chip-8 interpreter (pretty unoptimized)
 - To run a rom you have to open the executable through the terminal and provide the path to the desired rom as a command line argument
 - Audio is implemented
 - It runs at 600 instructions per second
